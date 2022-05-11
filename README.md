@@ -8,8 +8,6 @@
 - <i> Currently: </i> Bachelor of Science Honours in Information Technology (Robotics)
 - <i> Previously: </i> Bachelor of Science in Information Technology
 
-<!-- <a href="https://www.github.com/mpendulo-dev" target="_blank" rel="noreferrer"> -->
-
 ### Skills
 
 <p align="left">
